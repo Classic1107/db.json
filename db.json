@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"first_name":"Stephannie","last_name":"Brundall","email":"sbrundall0@about.me","gender":"Female","ip_address":"217.87.131.7"},
+{"id":2,"first_name":"Faulkner","last_name":"Twigger","email":"ftwigger1@reverbnation.com","gender":"Male","ip_address":"189.107.162.245"},
+{"id":3,"first_name":"Randolph","last_name":"Bezants","email":"rbezants2@dion.ne.jp","gender":"Male","ip_address":"154.47.170.200"},
+{"id":4,"first_name":"Charlotte","last_name":"Biddleston","email":"cbiddleston3@51.la","gender":"Female","ip_address":"215.205.141.187"},
+{"id":5,"first_name":"Tobiah","last_name":"Penylton","email":"tpenylton4@dropbox.com","gender":"Male","ip_address":"247.245.209.210"},
+{"id":6,"first_name":"Corby","last_name":"Bridden","email":"cbridden5@fastcompany.com","gender":"Male","ip_address":"178.93.26.251"},
+{"id":7,"first_name":"Kiersten","last_name":"Jersch","email":"kjersch6@examiner.com","gender":"Female","ip_address":"108.204.40.64"},
+{"id":8,"first_name":"Gerrie","last_name":"Baptie","email":"gbaptie7@miibeian.gov.cn","gender":"Male","ip_address":"37.165.124.54"},
+{"id":9,"first_name":"Erroll","last_name":"Leades","email":"eleades8@booking.com","gender":"Male","ip_address":"13.4.170.124"},
+{"id":10,"first_name":"Minta","last_name":"Cush","email":"mcush9@alibaba.com","gender":"Female","ip_address":"26.149.148.184"},
+{"id":11,"first_name":"Gena","last_name":"Duny","email":"gdunya@sakura.ne.jp","gender":"Female","ip_address":"246.133.23.129"},
+{"id":12,"first_name":"Euphemia","last_name":"Landell","email":"elandellb@alexa.com","gender":"Female","ip_address":"223.184.164.199"},
+{"id":13,"first_name":"Lesya","last_name":"Ilchenko","email":"lilchenkoc@indiegogo.com","gender":"Female","ip_address":"140.47.135.208"},
+{"id":14,"first_name":"Karyn","last_name":"Dorken","email":"kdorkend@ucoz.ru","gender":"Female","ip_address":"35.167.75.224"},
+{"id":15,"first_name":"Bathsheba","last_name":"Knightly","email":"bknightlye@bing.com","gender":"Female","ip_address":"56.76.3.178"},
+{"id":16,"first_name":"Georgetta","last_name":"Learmonth","email":"glearmonthf@tamu.edu","gender":"Female","ip_address":"179.217.232.51"},
+{"id":17,"first_name":"Doralin","last_name":"MacCallester","email":"dmaccallesterg@etsy.com","gender":"Female","ip_address":"240.131.99.145"},
+{"id":18,"first_name":"Andi","last_name":"Cusiter","email":"acusiterh@noaa.gov","gender":"Female","ip_address":"148.110.132.237"},
+{"id":19,"first_name":"Blaire","last_name":"Naismith","email":"bnaismithi@edublogs.org","gender":"Female","ip_address":"191.107.156.212"},
+{"id":20,"first_name":"Lefty","last_name":"Manlow","email":"lmanlowj@hhs.gov","gender":"Male","ip_address":"167.13.9.168"}
+]
+}
